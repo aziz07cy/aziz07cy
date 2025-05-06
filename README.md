@@ -23,7 +23,8 @@ I'm a passionate developer who loves building dynamic and efficient web applicat
 - **Tools:** Git, GitHub, VS Code, Postman
 
 ## 🌱 Currently Learning
-I'm always eager to expand my skill set! Currently, I'm exploring advanced **Angular animations** and mastering **Laravel API integrations** to enhance my development workflows.
+I'm always eager to expand my skill set! Currently, I'm exploring on other framework and programming language such as **Next.js and .NET** to enhance my development workflows.
+I’m also interested in AI and how it enhances modern applications and problem-solving across industries.
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/Aziz)
@@ -34,4 +35,4 @@ I'm always eager to expand my skill set! Currently, I'm exploring advanced **Ang
 
 ---
 
-Hope this helps! You can personalize it further to include projects, achievements, or anything else you'd like to showcase. Let me know if you want any tweaks! 🚀
+Let me know if you'd like any more refinements! 🚀
