@@ -1,6 +1,3 @@
-# Aziz: Front-End Developer Specializing in Angular & Scalable Architectures  
-
-## 🚀 Self Introduction  
 Hello! I'm **Aziz**, a **Front-End Developer** passionate about **Angular**, scalable architectures, and secure API integrations.  
 With a strong foundation in **standalone components, lazy loading, dependency injection**, and **SSR compatibility**, I craft efficient, maintainable applications that enhance user experience.  
 
