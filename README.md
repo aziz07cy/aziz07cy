@@ -4,19 +4,19 @@ With a strong foundation in **standalone components, lazy loading, dependency in
 While **Angular** is my primary expertise, my **advanced knowledge of JavaScript and TypeScript** allows me to explore other frameworks like **Next.js, NestJS, and Laravel**, ensuring adaptability across technologies.  
 My workflow integrates **frontend efficiency, backend security**, and structured **API optimizations** to create high-performance applications.  
 
-## ✅ Deliverables & Work  
-- 🔹 **Angular-Based Web Applications** – Dynamic, scalable solutions using **PrimeNG** and **DaisyUI**.  
-- 🔹 **Secure API Integrations** – Managing **CORS, CSRF**, and **cookie-based authentication** for reliable cross-platform interactions.  
-- 🔹 **Performance-Oriented UI/UX** – Creating **modular UI components** with a focus on efficiency and maintainability.  
-- 🔹 **Backend Connectivity & Environment-Based Configurations** – Ensuring seamless **API handling** while securing sensitive data.  
-- 🔹 **Expanding Beyond Angular** – Leveraging **JavaScript and TypeScript expertise** to integrate **Next.js, NestJS, Laravel**, and beyond.  
+##  Deliverables & Work  
+✅ **Angular-Based Web Applications** – Dynamic, scalable solutions using **PrimeNG** and **DaisyUI**.  
+✅ **Secure API Integrations** – Managing **CORS, CSRF**, and **cookie-based authentication** for reliable cross-platform interactions.  
+✅ **Performance-Oriented UI/UX** – Creating **modular UI components** with a focus on efficiency and maintainability.  
+✅ **Backend Connectivity & Environment-Based Configurations** – Ensuring seamless **API handling** while securing sensitive data.  
+✅ **Expanding Beyond Angular** – Leveraging **JavaScript and TypeScript expertise** to integrate **Next.js, NestJS, Laravel**, and beyond.  
 
 ## 🛠 Tools & Technologies I Use  
-- ⚙ **Frameworks & Libraries:** Angular, Next.js, NestJS, Laravel, NativePHP  
-- 🎨 **UI Components:** PrimeNG, DaisyUI  
-- 🔒 **Authentication & Security:** CSRF, CORS, Cookie-Based Authentication  
-- 📈 **Development & Optimization:** TypeScript, RxJS, Angular Services  
-- 🔗 **Scalability & Maintainability:** Environment-based configurations, reusable utilities, SSR compatibility  
+⚙ **Frameworks & Libraries:** Angular, Next.js, NestJS, Laravel, NativePHP  
+🎨 **UI Components:** PrimeNG, DaisyUI  
+🔒 **Authentication & Security:** CSRF, CORS, Cookie-Based Authentication  
+📈 **Development & Optimization:** TypeScript, RxJS, Angular Services  
+🔗 **Scalability & Maintainability:** Environment-based configurations, reusable utilities, SSR compatibility  
 
 ## 🏆 My Approach  
 I take pride in building **scalable, secure, and efficient applications**, ensuring seamless integration between **frontend and backend** while maintaining **clean architecture, reusable utilities, and structured API strategies** for maintainable and future-proof solutions.  
