@@ -1,26 +1,33 @@
-<!--
-**aziz07cy/aziz07cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aziz: Front-End Developer Specializing in Angular & Scalable Architectures  
 
-Here are some ideas to get you started:
+## 🚀 Self Introduction  
+Hello! I'm **Aziz**, a **Front-End Developer** passionate about **Angular**, scalable architectures, and secure API integrations.  
+With a strong foundation in **standalone components, lazy loading, dependency injection**, and **SSR compatibility**, I craft efficient, maintainable applications that enhance user experience.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Aziz!
+While **Angular** is my primary expertise, my **advanced knowledge of JavaScript and TypeScript** allows me to explore other frameworks like **Next.js, NestJS, and Laravel**, ensuring adaptability across technologies.  
+My workflow integrates **frontend efficiency, backend security**, and structured **API optimizations** to create high-performance applications.  
 
-## 🚀 About Me
-I'm a passionate developer who loves building dynamic and efficient web applications. I enjoy working with **Angular** for frontend development and **Laravel** for backend and fullstack, creating seamless and interactive user experiences.
+## ✅ Deliverables & Work  
+- 🔹 **Angular-Based Web Applications** – Dynamic, scalable solutions using **PrimeNG** and **DaisyUI**.  
+- 🔹 **Secure API Integrations** – Managing **CORS, CSRF**, and **cookie-based authentication** for reliable cross-platform interactions.  
+- 🔹 **Performance-Oriented UI/UX** – Creating **modular UI components** with a focus on efficiency and maintainability.  
+- 🔹 **Backend Connectivity & Environment-Based Configurations** – Ensuring seamless **API handling** while securing sensitive data.  
+- 🔹 **Expanding Beyond Angular** – Leveraging **JavaScript and TypeScript expertise** to integrate **Next.js, NestJS, Laravel**, and beyond.  
 
-## 🛠️ My Tech Stack
-- **Frontend:** Angular, TypeScript, HTML, CSS, Tailwind, Bootstrap, Alpinejs
-- **Backend:** Laravel, Livewire, PHP, MySQL, API Development
-- **Tools:** Git, GitHub, VS Code, HTTPie
+## 🛠 Tools & Technologies I Use  
+- ⚙ **Frameworks & Libraries:** Angular, Next.js, NestJS, Laravel, NativePHP  
+- 🎨 **UI Components:** PrimeNG, DaisyUI  
+- 🔒 **Authentication & Security:** CSRF, CORS, Cookie-Based Authentication  
+- 📈 **Development & Optimization:** TypeScript, RxJS, Angular Services  
+- 🔗 **Scalability & Maintainability:** Environment-based configurations, reusable utilities, SSR compatibility  
+
+## 🏆 My Approach  
+I take pride in building **scalable, secure, and efficient applications**, ensuring seamless integration between **frontend and backend** while maintaining **clean architecture, reusable utilities, and structured API strategies** for maintainable and future-proof solutions.  
+
+---
+
+### 🌟 Want to collaborate?  
+Feel free to reach out! Let’s build something great together. 🚀
 
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set! Currently, I'm exploring on other framework and programming language such as **Next.js and .NET** to enhance my development workflows.
