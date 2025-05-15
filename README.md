@@ -7,14 +7,14 @@ My workflow integrates **frontend efficiency, backend security**, and structured
 ##  Deliverables & Work  
 ✅ **Angular-Based Web Applications** – Dynamic, scalable solutions using **PrimeNG** and **DaisyUI**.  
 ✅ **Secure API Integrations** – Managing **CORS, CSRF**, and **cookie-based authentication** for reliable cross-platform interactions.  
-✅ **Performance-Oriented UI/UX** – Creating **modular UI components** with a focus on efficiency and maintainability.  
+✅ **Performance-Oriented UI/UX** – Creating **Standalone components** with a focus on efficiency and maintainability.  
 ✅ **Backend Connectivity & Environment-Based Configurations** – Ensuring seamless **API handling** while securing sensitive data.  
 ✅ **Expanding Beyond Angular** – Leveraging **JavaScript and TypeScript expertise** to integrate **Next.js, NestJS, Laravel**, and beyond.  
 
 ## 🛠 Tools & Technologies I Use  
-⚙ **Frameworks & Libraries:** Angular, Next.js, NestJS, Laravel, NativePHP  
+⚙ **Frameworks & Libraries:** Angular & Laravel  
 🎨 **UI Components:** PrimeNG, DaisyUI  
-🔒 **Authentication & Security:** CSRF, CORS, Cookie-Based Authentication  
+🔒 **Authentication & Security:** CORS, Cookie-Based Authentication  
 📈 **Development & Optimization:** TypeScript, RxJS, Angular Services  
 🔗 **Scalability & Maintainability:** Environment-based configurations, reusable utilities, SSR compatibility  
 
